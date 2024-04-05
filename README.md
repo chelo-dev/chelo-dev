@@ -1,7 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/chelo-dev/imagenes-para-compartir/blob/main/banner-github.webp">
-
 # Bienvenido a mi perfil de GitHub
-
 
 # Hola, soy Angel Paredes Torres.
 
