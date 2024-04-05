@@ -4,10 +4,10 @@
 
 Desarrollador web
 
-[![Github](https://img.shields.io/github/followers/chelitodelgado?style=social)](https://github.com/chelitodelgado)
-[![Github](https://img.shields.io/github/last-commit/chelitodelgado/chelitodelgado)](https://github.com/chelitodelgado)
-[![Github](https://img.shields.io/github/stars/chelitodelgado/chelitodelgado?style=social)](https://github.com/chelitodelgado)
-[![Github](https://img.shields.io/github/watchers/chelitodelgado/chelitodelgado?style=social)](https://github.com/chelitode
+[![Github](https://img.shields.io/github/followers/chelitodelgado?style=social)](https://github.com/chelo-dev)
+[![Github](https://img.shields.io/github/last-commit/chelitodelgado/chelitodelgado)](https://github.com/chelo-dev)
+[![Github](https://img.shields.io/github/stars/chelitodelgado/chelitodelgado?style=social)](https://github.com/chelo-dev)
+[![Github](https://img.shields.io/github/watchers/chelitodelgado/chelitodelgado?style=social)](https://github.com/chelo-dev)
 
 ## Sobre mí
 
