@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://imgflip.com/i/8r96xy)"  />
 </div>
 
 <p align="left">Soy experto en tecnologías web además de mi experiencia técnica, tengo una gran pasión por el ajedrez, las motos y disfruto pasar tiempo con mis perros. Creo firmemente en la importancia de la continua auto-mejora y aprendizaje, lo que me lleva a explorar constantemente nuevas tecnologías y metodologías de desarrollo.</p>
