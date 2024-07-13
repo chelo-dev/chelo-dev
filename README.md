@@ -64,12 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/chelo-dev/chelo-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## Mis Proyectos
 
 Aquí en GitHub, encontrarás una variedad de proyectos que reflejan mis habilidades y pasiones. Desde aplicaciones de seguridad informática hasta plataformas de e-commerce y sistemas de gestión escolar, cada proyecto es una oportunidad para explorar nuevas ideas y enfrentar desafíos.
