@@ -83,20 +83,5 @@ Estoy siempre abierto a colaborar en proyectos interesantes o discutir ideas inn
 - **Correo**: angelparedestorres.apt@gmail.com
 - **LinkedIn**: www.linkedin.com/in/angel-paredes-torres
 
-## Mis redes sociales
-
-<a href="https://www.linkedin.com/in/angel-paredes-torres/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:angelparedestorres.apt@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-</a>
-<a href="https://www.facebook.com/chelo404">
-  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
-</a>
-<a href="https://stackoverflow.com/users/13654084/angel-paredes">
-  <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-</a>
-
 ¡Gracias por visitar mi perfil! Espero que encuentres algo que despierte tu interés.
 
