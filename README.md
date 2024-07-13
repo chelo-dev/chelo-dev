@@ -81,7 +81,7 @@ Estoy siempre abierto a colaborar en proyectos interesantes o discutir ideas inn
 ## Mantente en contacto
 
 - **Correo**: angelparedestorres.apt@gmail.com
-- **LinkedIn**: [[tu_perfil](https://www.linkedin.com/in/angel-paredes-torres/)](www.linkedin.com/in/angel-paredes-torres)
+- **LinkedIn**: [[www.linkedin.com/in/angel-paredes-torres](https://www.linkedin.com/in/angel-paredes-torres)](www.linkedin.com/in/angel-paredes-torres)
 
 ## Mis redes sociales
 
